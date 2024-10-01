@@ -163,8 +163,8 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/SunWeb3Sec/DeFiHacksReproduce.git
-   cd DeFiHacksReproduce
+   git clone [this repository]
+   cd cloned-repo
    ```
 
 2. **Install Foundry:**
